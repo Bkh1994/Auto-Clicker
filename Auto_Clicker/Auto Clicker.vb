@@ -6,6 +6,7 @@
 
     Dim maxLength As Integer = 10 'The max length of the integer textboxes (min/max timer)
 
+    '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
     Private Sub startButton_Click(sender As Object, e As EventArgs) Handles startButton.Click
         startTimer.Enabled = True
